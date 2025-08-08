@@ -2,7 +2,7 @@
  
 🧠 Computer Science student @ ECU<br/>
 💻 IT Specialist @ ECU School of Dental Medicine<br/>
-🏦 VP of Research & Development Association of Information Systems @ ECU<br/>
+🏦 Director of Research & Development Association of Information Systems @ ECU<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewoodward) 
