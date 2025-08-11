@@ -1,6 +1,6 @@
 ## Hi, I'm Andre 👋
   
-🧠 Computer Science student @ ECU<br/>
+🧠 Computer Science @ ECU<br/>
 💻 IT Specialist @ ECU School of Dental Medicine<br/>
 🏦 Director of Research & Development Association of Information Systems @ ECU<br/>
 
