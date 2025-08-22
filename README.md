@@ -1,4 +1,4 @@
-## Hi, I'm Andre 👋  
+## Hi, I'm Andre 👋 
   
 🧠 Computer Science @ ECU<br/>
 💻 IT Specialist @ ECU School of Dental Medicine<br/>
