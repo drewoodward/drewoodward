@@ -2,7 +2,8 @@
 
 🧠 Computer Science @ ECU<br/>
 💻 IT Specialist @ ECU School of Dental Medicine<br/>
-🏦 Director of Research & Development Association of Information Systems @ ECU<br/>
+🔬 Director of Research & Development Association of Information Systems @ ECU<br/>
+🏦 Incoming SWE Intern @ JPMorganChase
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewoodward) 
